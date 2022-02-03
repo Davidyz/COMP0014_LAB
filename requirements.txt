@@ -1,0 +1,8 @@
+ipykernel
+matplotlib
+numpy
+scipy
+sympy
+ipythonblocks
+ipywidgets
+networkx
